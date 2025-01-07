@@ -4,8 +4,8 @@ import requests
 # 配置区域
 
 # API 端点
-list_url = "https://drive.almondcloud.cn/api/v3/admin/file/list"
-delete_url = "https://drive.almondcloud.cn/api/v3/admin/file/delete"
+list_url = "https://www.example.com/api/v3/admin/file/list"
+delete_url = "https://www.example.com/api/v3/admin/file/delete"
 
 # 每次请求的列表数量
 page_size = 1000
